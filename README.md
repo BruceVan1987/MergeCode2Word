@@ -12,6 +12,6 @@ MergeCode2Word
 1. 无法判断要生成的word文档的页数
 2. 代码缩进效果在word文档中无效
 
-这是[知乎贴](http://www.zhihu.com/question/22798494)http://www.zhihu.com/question/22798494，求友情赞，同情赞！
+这是[知乎贴](http://www.zhihu.com/question/22798494)求友情赞，同情赞！
 
 希望有人能够将这个程序改写成C++或者C#版本。
